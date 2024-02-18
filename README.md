@@ -9,7 +9,6 @@
 
 👉 [Live Demo](https://bestshape.fit) 👈
 
-👉 [Check out this YouTube video about the project](https://youtu.be/XZBETa-s_mY) 👈
 
 ![Home Page](https://i.imgur.com/FZvpCtP.png)
 
